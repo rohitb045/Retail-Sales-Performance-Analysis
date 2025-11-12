@@ -39,7 +39,7 @@ To analyze sales data and generate useful insights that can help improve busines
 
 ## 📄 Files Included
 - `retail_sales.csv` → Dataset  
-- `retail_sales_analysis.py` → Python code  
+- `Retail_Sales.ipynb` → Python code  
 - `Sales.pbix` → Power BI Dashboard  
 - `README.md` → Project documentation  
 
