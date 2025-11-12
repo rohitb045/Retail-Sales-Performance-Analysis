@@ -1,0 +1,501 @@
+Date,Region,Product,Category,Quantity,Unit_Price,Total_Sales
+2024-02-03,South,Jeans,Clothing,7,1193,8351
+2024-12-10,North,T-Shirt,Clothing,15,1375,20625
+2024-11-29,East,Bread,Grocery,11,1538,16918
+2024-03-26,North,T-Shirt,Clothing,8,1910,15280
+2024-03-20,West,Eggs,Grocery,7,544,3808
+2024-04-11,South,Rice,Grocery,19,975,18525
+2024-09-29,West,Shoes,Clothing,11,1305,14355
+2024-08-08,West,Lamp,Home Decor,11,266,2926
+2024-06-10,East,T-Shirt,Clothing,4,190,760
+2024-08-30,South,Milk,Grocery,8,813,6504
+2024-05-26,East,Jacket,Clothing,3,1981,5943
+2024-09-02,South,Eggs,Grocery,2,1654,3308
+2024-08-22,East,Table,Home Decor,12,138,1656
+2024-10-10,East,Bread,Grocery,6,1249,7494
+2024-08-31,North,Shoes,Clothing,2,1574,3148
+2024-05-25,North,Headphones,Electronics,1,272,272
+2024-09-28,West,Jacket,Clothing,12,752,9024
+2024-02-03,East,Milk,Grocery,12,853,10236
+2024-03-21,South,Shoes,Clothing,17,1343,22831
+2024-12-06,South,Eggs,Grocery,10,1761,17610
+2024-11-17,East,Curtains,Home Decor,16,1181,18896
+2024-07-23,North,Headphones,Electronics,15,1783,26745
+2024-05-04,East,Bread,Grocery,15,575,8625
+2024-06-17,North,Shoes,Clothing,19,555,10545
+2024-05-06,East,Lamp,Home Decor,12,928,11136
+2024-06-01,East,Milk,Grocery,3,994,2982
+2024-01-07,North,Table,Home Decor,5,1484,7420
+2024-04-04,East,Chair,Home Decor,19,1124,21356
+2024-06-07,West,Headphones,Electronics,7,486,3402
+2024-11-16,West,Camera,Electronics,9,447,4023
+2024-08-10,North,Jacket,Clothing,7,289,2023
+2024-06-17,South,Chair,Home Decor,18,604,10872
+2024-03-08,West,Jeans,Clothing,4,1314,5256
+2024-12-01,East,Jacket,Clothing,14,1631,22834
+2024-07-13,South,Chair,Home Decor,18,1492,26856
+2024-02-21,North,Curtains,Home Decor,9,1532,13788
+2024-08-12,West,Headphones,Electronics,2,923,1846
+2024-07-16,East,Camera,Electronics,15,1028,15420
+2024-12-05,East,Curtains,Home Decor,7,1033,7231
+2024-09-13,West,Eggs,Grocery,12,1240,14880
+2024-09-23,West,Smartphone,Electronics,8,233,1864
+2024-05-12,East,Lamp,Home Decor,15,157,2355
+2024-09-08,West,Curtains,Home Decor,3,1679,5037
+2024-10-23,West,Milk,Grocery,14,784,10976
+2024-08-11,East,Lamp,Home Decor,17,771,13107
+2024-09-23,East,Jeans,Clothing,4,272,1088
+2024-08-02,West,Smartphone,Electronics,18,1952,35136
+2024-02-12,South,Curtains,Home Decor,8,914,7312
+2024-05-06,West,Rice,Grocery,4,1272,5088
+2024-05-14,West,Smartphone,Electronics,2,179,358
+2024-09-07,South,Curtains,Home Decor,6,985,5910
+2024-03-15,West,Chair,Home Decor,10,1336,13360
+2024-12-04,South,Eggs,Grocery,4,302,1208
+2024-06-15,North,Eggs,Grocery,18,863,15534
+2024-11-09,East,Laptop,Electronics,12,1352,16224
+2024-09-20,East,Rice,Grocery,2,1799,3598
+2024-01-05,East,Jeans,Clothing,10,1350,13500
+2024-04-18,South,Jeans,Clothing,4,1782,7128
+2024-10-11,South,T-Shirt,Clothing,14,1655,23170
+2024-11-26,South,Rice,Grocery,16,1564,25024
+2024-01-10,West,Table,Home Decor,15,1525,22875
+2024-02-12,East,Lamp,Home Decor,8,146,1168
+2024-11-26,West,T-Shirt,Clothing,14,1356,18984
+2024-02-20,West,Milk,Grocery,8,1428,11424
+2024-06-27,North,Headphones,Electronics,16,1649,26384
+2024-10-12,South,Table,Home Decor,13,1266,16458
+2024-12-04,South,Jacket,Clothing,18,1538,27684
+2024-09-19,East,Curtains,Home Decor,15,1636,24540
+2024-05-06,North,Laptop,Electronics,13,1496,19448
+2024-09-29,East,Lamp,Home Decor,9,1689,15201
+2024-02-29,East,T-Shirt,Clothing,15,1382,20730
+2024-09-10,East,Table,Home Decor,13,755,9815
+2024-11-28,North,Jeans,Clothing,1,570,570
+2024-02-20,West,Chair,Home Decor,7,1070,7490
+2024-12-09,North,Eggs,Grocery,9,1135,10215
+2024-06-10,North,Headphones,Electronics,1,1453,1453
+2024-10-04,North,Milk,Grocery,12,835,10020
+2024-09-27,East,Eggs,Grocery,8,883,7064
+2024-03-20,West,Bread,Grocery,11,1067,11737
+2024-01-26,South,Chair,Home Decor,19,457,8683
+2024-08-31,West,Milk,Grocery,17,1071,18207
+2024-10-03,South,Camera,Electronics,8,1531,12248
+2024-02-12,North,Milk,Grocery,3,767,2301
+2024-05-21,North,Rice,Grocery,3,472,1416
+2024-09-20,South,Table,Home Decor,1,1131,1131
+2024-01-14,South,Jacket,Clothing,5,1245,6225
+2024-03-27,South,Jeans,Clothing,10,1471,14710
+2024-04-05,North,Jeans,Clothing,7,775,5425
+2024-02-25,West,Laptop,Electronics,9,189,1701
+2024-02-26,South,Shoes,Clothing,7,1771,12397
+2024-11-09,East,Bread,Grocery,9,797,7173
+2024-12-22,East,Shoes,Clothing,8,1439,11512
+2024-07-15,East,Chair,Home Decor,12,1301,15612
+2024-07-25,North,Bread,Grocery,2,639,1278
+2024-05-06,East,Shoes,Clothing,1,831,831
+2024-11-13,South,Milk,Grocery,16,968,15488
+2024-05-12,West,Milk,Grocery,5,140,700
+2024-04-17,East,Laptop,Electronics,3,839,2517
+2024-10-08,West,Jacket,Clothing,12,1827,21924
+2024-07-14,South,Curtains,Home Decor,8,601,4808
+2024-01-12,South,Rice,Grocery,3,1058,3174
+2024-02-12,West,Jacket,Clothing,1,1268,1268
+2024-06-14,South,Milk,Grocery,3,1324,3972
+2024-12-14,South,T-Shirt,Clothing,5,1028,5140
+2024-10-25,North,Curtains,Home Decor,15,1847,27705
+2024-05-25,South,Jacket,Clothing,14,560,7840
+2024-05-01,West,Chair,Home Decor,3,831,2493
+2024-08-14,South,Eggs,Grocery,1,851,851
+2024-03-04,North,Lamp,Home Decor,5,1024,5120
+2024-03-24,North,Table,Home Decor,14,1008,14112
+2024-11-19,West,Camera,Electronics,7,1681,11767
+2024-08-04,East,Chair,Home Decor,9,1670,15030
+2024-09-14,West,Table,Home Decor,15,1376,20640
+2024-05-26,North,Curtains,Home Decor,15,489,7335
+2024-03-10,South,T-Shirt,Clothing,10,1717,17170
+2024-02-06,East,Camera,Electronics,13,982,12766
+2024-01-02,South,Jacket,Clothing,19,355,6745
+2024-10-13,East,Headphones,Electronics,7,808,5656
+2024-01-04,South,Bread,Grocery,17,1938,32946
+2024-06-26,West,Milk,Grocery,4,549,2196
+2024-12-05,South,Milk,Grocery,5,109,545
+2024-03-09,East,Curtains,Home Decor,7,923,6461
+2024-05-09,South,Lamp,Home Decor,13,897,11661
+2024-07-06,East,Jacket,Clothing,15,1365,20475
+2024-03-10,North,Laptop,Electronics,11,1374,15114
+2024-08-13,East,Jeans,Clothing,4,976,3904
+2024-12-11,East,Curtains,Home Decor,13,1128,14664
+2024-02-13,West,Headphones,Electronics,7,1242,8694
+2024-03-01,South,Chair,Home Decor,19,1115,21185
+2024-03-20,North,Curtains,Home Decor,2,1924,3848
+2024-06-04,West,Bread,Grocery,10,473,4730
+2024-02-15,South,Jacket,Clothing,13,1188,15444
+2024-07-31,South,Table,Home Decor,6,245,1470
+2024-10-14,West,Smartphone,Electronics,12,323,3876
+2024-08-31,East,T-Shirt,Clothing,12,1362,16344
+2024-03-23,North,Lamp,Home Decor,11,276,3036
+2024-12-05,South,Chair,Home Decor,7,1902,13314
+2024-08-30,East,Lamp,Home Decor,1,952,952
+2024-04-30,South,Curtains,Home Decor,1,1405,1405
+2024-03-04,East,Chair,Home Decor,13,162,2106
+2024-09-13,East,Smartphone,Electronics,9,1340,12060
+2024-10-10,East,Curtains,Home Decor,3,1977,5931
+2024-04-21,East,Laptop,Electronics,7,926,6482
+2024-08-23,South,Milk,Grocery,6,894,5364
+2024-09-13,East,Jeans,Clothing,8,788,6304
+2024-04-28,West,Headphones,Electronics,9,1584,14256
+2024-01-29,South,Smartphone,Electronics,5,1733,8665
+2024-05-07,West,Lamp,Home Decor,1,204,204
+2024-01-29,North,Chair,Home Decor,19,1222,23218
+2024-05-12,East,Bread,Grocery,10,610,6100
+2024-07-02,North,T-Shirt,Clothing,12,484,5808
+2024-08-10,East,Lamp,Home Decor,15,504,7560
+2024-11-28,North,Milk,Grocery,9,922,8298
+2024-07-30,North,Smartphone,Electronics,17,617,10489
+2024-05-21,West,Smartphone,Electronics,17,575,9775
+2024-02-03,West,Bread,Grocery,12,808,9696
+2024-07-20,East,Rice,Grocery,7,1986,13902
+2024-10-15,North,Curtains,Home Decor,2,1768,3536
+2024-09-18,South,Rice,Grocery,3,1993,5979
+2024-11-18,West,Camera,Electronics,17,870,14790
+2024-06-24,South,Curtains,Home Decor,5,1560,7800
+2024-01-26,West,Lamp,Home Decor,17,1146,19482
+2024-06-17,North,Lamp,Home Decor,17,1096,18632
+2024-08-31,East,Camera,Electronics,17,1688,28696
+2024-08-17,South,Table,Home Decor,2,776,1552
+2024-07-16,West,Jeans,Clothing,2,813,1626
+2024-03-28,West,Lamp,Home Decor,5,1581,7905
+2024-12-11,West,T-Shirt,Clothing,1,182,182
+2024-03-06,East,Eggs,Grocery,1,1268,1268
+2024-10-09,South,Headphones,Electronics,19,1208,22952
+2024-02-11,East,Camera,Electronics,2,1201,2402
+2024-03-30,North,Laptop,Electronics,12,556,6672
+2024-04-25,South,Smartphone,Electronics,6,100,600
+2024-03-18,North,Milk,Grocery,4,150,600
+2024-04-04,North,Headphones,Electronics,11,784,8624
+2024-11-25,East,Chair,Home Decor,17,816,13872
+2024-07-11,West,T-Shirt,Clothing,6,1895,11370
+2024-12-03,North,Headphones,Electronics,5,1569,7845
+2024-06-22,North,Bread,Grocery,2,548,1096
+2024-05-31,South,Chair,Home Decor,6,980,5880
+2024-02-04,West,Table,Home Decor,11,587,6457
+2024-10-24,West,Jeans,Clothing,16,1923,30768
+2024-02-10,West,Shoes,Clothing,16,133,2128
+2024-01-20,North,Headphones,Electronics,1,1471,1471
+2024-02-24,East,Jeans,Clothing,9,194,1746
+2024-02-01,South,Bread,Grocery,6,1195,7170
+2024-06-07,North,Jacket,Clothing,16,1674,26784
+2024-09-20,North,T-Shirt,Clothing,3,253,759
+2024-01-06,East,Jeans,Clothing,4,349,1396
+2024-06-01,South,Jeans,Clothing,19,773,14687
+2024-02-22,East,T-Shirt,Clothing,3,537,1611
+2024-11-18,West,Table,Home Decor,19,217,4123
+2024-02-05,North,Laptop,Electronics,7,870,6090
+2024-07-17,East,Chair,Home Decor,9,1429,12861
+2024-10-11,South,Milk,Grocery,1,367,367
+2024-10-24,South,Chair,Home Decor,8,1177,9416
+2024-12-01,South,Lamp,Home Decor,7,335,2345
+2024-09-27,East,Jacket,Clothing,18,488,8784
+2024-08-08,West,Jeans,Clothing,8,1089,8712
+2024-12-10,West,Shoes,Clothing,1,1857,1857
+2024-09-26,North,Lamp,Home Decor,11,862,9482
+2024-04-20,West,Shoes,Clothing,18,1948,35064
+2024-03-15,South,Lamp,Home Decor,10,500,5000
+2024-08-29,North,Lamp,Home Decor,3,723,2169
+2024-11-10,East,Jeans,Clothing,7,866,6062
+2024-09-06,North,Jacket,Clothing,16,1426,22816
+2024-05-20,North,Chair,Home Decor,16,1018,16288
+2024-08-02,East,Bread,Grocery,17,1330,22610
+2024-02-01,North,Smartphone,Electronics,2,1352,2704
+2024-03-25,North,Rice,Grocery,1,952,952
+2024-03-26,North,Jacket,Clothing,16,677,10832
+2024-10-19,South,Jacket,Clothing,12,174,2088
+2024-08-13,West,Eggs,Grocery,5,534,2670
+2024-08-03,North,Curtains,Home Decor,5,202,1010
+2024-06-08,East,Lamp,Home Decor,9,1545,13905
+2024-05-18,West,Milk,Grocery,9,1827,16443
+2024-12-10,South,Shoes,Clothing,3,863,2589
+2024-05-02,South,Headphones,Electronics,19,837,15903
+2024-12-15,West,Rice,Grocery,16,905,14480
+2024-08-15,East,Bread,Grocery,16,1429,22864
+2024-02-08,North,Laptop,Electronics,3,197,591
+2024-08-17,West,Bread,Grocery,1,1973,1973
+2024-10-21,South,Jacket,Clothing,11,897,9867
+2024-08-25,East,Table,Home Decor,17,1458,24786
+2024-02-12,North,Jacket,Clothing,8,958,7664
+2024-02-02,South,Table,Home Decor,4,534,2136
+2024-04-04,South,Curtains,Home Decor,6,546,3276
+2024-09-21,West,Chair,Home Decor,8,1431,11448
+2024-05-04,South,Laptop,Electronics,3,348,1044
+2024-04-16,East,Milk,Grocery,16,265,4240
+2024-02-01,West,Bread,Grocery,3,1604,4812
+2024-11-07,West,Jacket,Clothing,18,1083,19494
+2024-09-17,East,Jacket,Clothing,14,1458,20412
+2024-10-08,East,Table,Home Decor,18,1119,20142
+2024-12-08,North,Rice,Grocery,2,641,1282
+2024-06-04,West,T-Shirt,Clothing,3,858,2574
+2024-08-02,West,Curtains,Home Decor,16,1229,19664
+2024-02-13,South,Chair,Home Decor,9,1686,15174
+2024-09-25,North,Eggs,Grocery,4,180,720
+2024-02-22,West,Headphones,Electronics,1,232,232
+2024-08-08,North,Milk,Grocery,4,896,3584
+2024-01-03,North,Lamp,Home Decor,1,999,999
+2024-02-25,South,Jacket,Clothing,14,237,3318
+2024-07-02,South,Laptop,Electronics,16,283,4528
+2024-11-04,East,Eggs,Grocery,8,1524,12192
+2024-02-14,East,Camera,Electronics,7,1453,10171
+2024-07-21,West,Smartphone,Electronics,3,884,2652
+2024-10-29,South,Chair,Home Decor,17,1631,27727
+2024-07-11,West,Curtains,Home Decor,1,1975,1975
+2024-02-14,North,Laptop,Electronics,16,1083,17328
+2024-12-26,West,Curtains,Home Decor,12,168,2016
+2024-08-30,West,Lamp,Home Decor,19,645,12255
+2024-12-25,West,Smartphone,Electronics,14,1897,26558
+2024-12-26,South,Table,Home Decor,6,152,912
+2024-01-07,South,Lamp,Home Decor,6,1573,9438
+2024-11-25,South,Curtains,Home Decor,13,304,3952
+2024-12-08,West,Laptop,Electronics,19,225,4275
+2024-06-04,South,Table,Home Decor,8,1870,14960
+2024-05-21,West,Camera,Electronics,2,142,284
+2024-07-31,West,Table,Home Decor,1,1875,1875
+2024-10-29,North,Curtains,Home Decor,15,210,3150
+2024-03-07,North,T-Shirt,Clothing,1,860,860
+2024-07-25,South,Curtains,Home Decor,5,1786,8930
+2024-09-14,North,Smartphone,Electronics,16,1306,20896
+2024-04-29,North,Laptop,Electronics,19,947,17993
+2024-02-07,West,Smartphone,Electronics,4,194,776
+2024-05-07,West,Smartphone,Electronics,3,1497,4491
+2024-12-01,West,Headphones,Electronics,17,1643,27931
+2024-11-06,East,Jeans,Clothing,17,999,16983
+2024-07-26,East,Milk,Grocery,12,459,5508
+2024-08-18,West,Laptop,Electronics,14,999,13986
+2024-02-08,South,Table,Home Decor,6,1819,10914
+2024-11-15,North,Jacket,Clothing,3,380,1140
+2024-03-20,North,Jeans,Clothing,9,1318,11862
+2024-12-18,South,Eggs,Grocery,5,1987,9935
+2024-09-13,West,Milk,Grocery,17,1318,22406
+2024-12-18,West,Headphones,Electronics,14,766,10724
+2024-09-24,North,Milk,Grocery,3,192,576
+2024-05-14,North,Headphones,Electronics,1,771,771
+2024-07-09,West,Laptop,Electronics,1,160,160
+2024-03-17,East,Jeans,Clothing,3,733,2199
+2024-06-19,South,Chair,Home Decor,18,1174,21132
+2024-01-29,East,Laptop,Electronics,10,1526,15260
+2024-11-11,East,Milk,Grocery,3,1912,5736
+2024-07-05,West,Eggs,Grocery,8,1128,9024
+2024-11-03,East,Lamp,Home Decor,14,1589,22246
+2024-03-20,East,Curtains,Home Decor,18,703,12654
+2024-09-11,West,Bread,Grocery,15,781,11715
+2024-11-01,East,Bread,Grocery,2,1952,3904
+2024-11-05,South,Eggs,Grocery,10,633,6330
+2024-11-27,West,Lamp,Home Decor,2,1528,3056
+2024-09-01,East,Lamp,Home Decor,17,937,15929
+2024-01-15,East,T-Shirt,Clothing,8,1636,13088
+2024-03-15,East,Camera,Electronics,1,744,744
+2024-05-01,East,Smartphone,Electronics,9,332,2988
+2024-02-05,North,Smartphone,Electronics,11,623,6853
+2024-03-03,East,Curtains,Home Decor,16,445,7120
+2024-04-21,South,Eggs,Grocery,7,1169,8183
+2024-04-21,South,Shoes,Clothing,10,645,6450
+2024-06-04,East,Eggs,Grocery,3,1201,3603
+2024-10-31,East,Eggs,Grocery,18,1853,33354
+2024-03-26,West,Headphones,Electronics,13,1936,25168
+2024-01-31,East,Milk,Grocery,7,1196,8372
+2024-12-05,East,Lamp,Home Decor,4,893,3572
+2024-12-09,West,Lamp,Home Decor,13,348,4524
+2024-12-24,North,T-Shirt,Clothing,1,146,146
+2024-12-22,North,Chair,Home Decor,8,1244,9952
+2024-05-18,North,Camera,Electronics,14,313,4382
+2024-04-19,East,Camera,Electronics,16,338,5408
+2024-11-20,North,Laptop,Electronics,14,1179,16506
+2024-08-27,West,Chair,Home Decor,12,449,5388
+2024-02-04,East,Table,Home Decor,19,206,3914
+2024-07-17,North,Shoes,Clothing,15,930,13950
+2024-11-22,West,T-Shirt,Clothing,2,147,294
+2024-07-05,West,Milk,Grocery,2,1696,3392
+2024-01-20,North,Shoes,Clothing,19,436,8284
+2024-09-09,West,Smartphone,Electronics,17,1149,19533
+2024-11-18,North,Table,Home Decor,10,903,9030
+2024-03-15,South,Curtains,Home Decor,6,1380,8280
+2024-10-02,North,Milk,Grocery,15,107,1605
+2024-03-21,North,Smartphone,Electronics,11,724,7964
+2024-11-07,East,Laptop,Electronics,5,1990,9950
+2024-10-13,East,Eggs,Grocery,1,1376,1376
+2024-03-11,North,Milk,Grocery,8,1815,14520
+2024-10-03,East,Jeans,Clothing,12,818,9816
+2024-10-14,North,Jacket,Clothing,12,402,4824
+2024-03-01,South,Lamp,Home Decor,5,738,3690
+2024-11-02,South,Laptop,Electronics,7,155,1085
+2024-07-01,North,Bread,Grocery,4,825,3300
+2024-06-19,North,Chair,Home Decor,6,625,3750
+2024-05-16,East,Curtains,Home Decor,13,573,7449
+2024-09-18,North,Eggs,Grocery,15,127,1905
+2024-07-08,North,Chair,Home Decor,3,177,531
+2024-02-03,West,T-Shirt,Clothing,8,1339,10712
+2024-05-29,West,Milk,Grocery,16,1509,24144
+2024-04-14,West,Eggs,Grocery,13,464,6032
+2024-04-05,East,Table,Home Decor,18,765,13770
+2024-07-27,South,Jacket,Clothing,10,625,6250
+2024-06-03,South,Lamp,Home Decor,19,798,15162
+2024-09-08,West,T-Shirt,Clothing,17,1435,24395
+2024-01-04,West,Jacket,Clothing,19,982,18658
+2024-03-02,North,Headphones,Electronics,5,1130,5650
+2024-06-09,East,T-Shirt,Clothing,9,1126,10134
+2024-09-30,East,Milk,Grocery,12,1746,20952
+2024-02-08,West,Rice,Grocery,1,1018,1018
+2024-05-04,West,Rice,Grocery,1,849,849
+2024-06-08,South,Jeans,Clothing,15,462,6930
+2024-07-05,East,Headphones,Electronics,2,1874,3748
+2024-04-08,South,Jacket,Clothing,16,1631,26096
+2024-08-21,West,Rice,Grocery,8,1397,11176
+2024-03-19,South,T-Shirt,Clothing,13,1629,21177
+2024-01-11,South,Smartphone,Electronics,1,905,905
+2024-12-23,West,Headphones,Electronics,16,838,13408
+2024-01-05,South,Camera,Electronics,7,1138,7966
+2024-11-01,South,Jacket,Clothing,5,1315,6575
+2024-12-06,North,Laptop,Electronics,3,1754,5262
+2024-03-16,East,Rice,Grocery,12,584,7008
+2024-03-09,North,Curtains,Home Decor,16,127,2032
+2024-11-23,East,Jacket,Clothing,19,813,15447
+2024-05-24,North,Eggs,Grocery,5,1162,5810
+2024-09-12,North,Laptop,Electronics,14,1396,19544
+2024-07-03,South,Jeans,Clothing,5,1354,6770
+2024-09-18,South,Jeans,Clothing,15,185,2775
+2024-06-17,East,Bread,Grocery,17,1597,27149
+2024-05-13,North,Chair,Home Decor,14,225,3150
+2024-11-13,North,Milk,Grocery,5,911,4555
+2024-10-29,East,Rice,Grocery,12,636,7632
+2024-03-06,East,Chair,Home Decor,16,244,3904
+2024-04-20,West,Rice,Grocery,16,1648,26368
+2024-07-19,North,Laptop,Electronics,7,1335,9345
+2024-08-06,North,Eggs,Grocery,4,124,496
+2024-04-13,East,Chair,Home Decor,1,1703,1703
+2024-05-18,West,Lamp,Home Decor,5,1517,7585
+2024-03-21,West,Laptop,Electronics,10,166,1660
+2024-07-12,North,T-Shirt,Clothing,5,332,1660
+2024-09-04,West,Rice,Grocery,4,208,832
+2024-03-23,South,T-Shirt,Clothing,2,1269,2538
+2024-01-23,West,Camera,Electronics,10,210,2100
+2024-07-22,South,Milk,Grocery,19,327,6213
+2024-02-29,West,Headphones,Electronics,1,210,210
+2024-10-01,South,Lamp,Home Decor,5,1593,7965
+2024-06-06,East,Jeans,Clothing,13,133,1729
+2024-09-21,East,Shoes,Clothing,4,722,2888
+2024-04-06,South,Jacket,Clothing,16,1899,30384
+2024-08-04,South,Jacket,Clothing,16,1492,23872
+2024-09-20,North,Jeans,Clothing,2,847,1694
+2024-03-21,West,Camera,Electronics,17,694,11798
+2024-01-29,South,Chair,Home Decor,12,1677,20124
+2024-02-05,East,Lamp,Home Decor,18,524,9432
+2024-07-22,South,Table,Home Decor,3,712,2136
+2024-11-15,North,Curtains,Home Decor,1,1641,1641
+2024-03-27,East,Curtains,Home Decor,1,791,791
+2024-03-21,North,Shoes,Clothing,19,1405,26695
+2024-02-25,East,Eggs,Grocery,11,1443,15873
+2024-08-21,South,Bread,Grocery,5,1861,9305
+2024-07-18,North,Shoes,Clothing,12,1566,18792
+2024-07-30,North,Chair,Home Decor,3,414,1242
+2024-12-29,West,Rice,Grocery,1,976,976
+2024-10-26,North,Rice,Grocery,1,1864,1864
+2024-12-26,South,Headphones,Electronics,8,1500,12000
+2024-02-01,North,Table,Home Decor,10,1412,14120
+2024-01-11,South,Chair,Home Decor,11,1560,17160
+2024-05-09,West,Lamp,Home Decor,12,761,9132
+2024-08-20,East,Rice,Grocery,13,376,4888
+2024-08-22,West,Curtains,Home Decor,12,1833,21996
+2024-01-27,West,Table,Home Decor,14,1705,23870
+2024-05-09,West,Shoes,Clothing,2,1626,3252
+2024-11-18,North,Laptop,Electronics,19,723,13737
+2024-06-09,East,Laptop,Electronics,18,615,11070
+2024-01-15,South,Camera,Electronics,3,1473,4419
+2024-07-05,East,Rice,Grocery,17,942,16014
+2024-03-06,West,Milk,Grocery,8,1569,12552
+2024-04-12,West,Chair,Home Decor,10,1953,19530
+2024-05-09,East,Shoes,Clothing,2,449,898
+2024-09-26,North,Headphones,Electronics,19,1730,32870
+2024-01-19,South,Bread,Grocery,9,1787,16083
+2024-08-23,East,Bread,Grocery,7,922,6454
+2024-04-01,East,T-Shirt,Clothing,4,1260,5040
+2024-03-25,South,Table,Home Decor,18,858,15444
+2024-10-08,South,Lamp,Home Decor,13,998,12974
+2024-07-18,North,Shoes,Clothing,11,342,3762
+2024-03-15,West,Eggs,Grocery,4,642,2568
+2024-06-18,East,Shoes,Clothing,4,1163,4652
+2024-11-22,North,Eggs,Grocery,10,328,3280
+2024-05-12,South,Bread,Grocery,5,647,3235
+2024-03-17,East,Jacket,Clothing,9,1019,9171
+2024-10-04,South,Headphones,Electronics,3,1346,4038
+2024-06-16,North,Jeans,Clothing,17,105,1785
+2024-07-12,East,Eggs,Grocery,3,1445,4335
+2024-07-28,South,T-Shirt,Clothing,16,567,9072
+2024-01-01,North,Jeans,Clothing,4,1855,7420
+2024-02-24,West,Rice,Grocery,18,174,3132
+2024-05-05,South,Rice,Grocery,17,103,1751
+2024-09-07,North,Jacket,Clothing,7,1970,13790
+2024-04-03,West,Curtains,Home Decor,5,745,3725
+2024-12-25,South,Bread,Grocery,12,217,2604
+2024-06-23,East,Chair,Home Decor,17,980,16660
+2024-05-08,North,Smartphone,Electronics,13,1729,22477
+2024-04-15,South,Lamp,Home Decor,3,603,1809
+2024-10-08,South,T-Shirt,Clothing,9,1046,9414
+2024-03-14,South,Laptop,Electronics,17,673,11441
+2024-05-12,East,Shoes,Clothing,17,1564,26588
+2024-12-18,South,Jeans,Clothing,16,293,4688
+2024-07-22,North,Laptop,Electronics,13,946,12298
+2024-11-01,South,T-Shirt,Clothing,19,814,15466
+2024-11-10,East,Smartphone,Electronics,17,1515,25755
+2024-04-16,West,Curtains,Home Decor,4,1149,4596
+2024-05-01,South,Headphones,Electronics,12,1558,18696
+2024-02-28,East,Lamp,Home Decor,9,272,2448
+2024-07-23,West,Chair,Home Decor,19,1423,27037
+2024-11-15,East,Lamp,Home Decor,12,1768,21216
+2024-05-22,South,Table,Home Decor,9,425,3825
+2024-01-17,West,Rice,Grocery,7,1533,10731
+2024-12-09,South,Smartphone,Electronics,14,1241,17374
+2024-07-10,East,Table,Home Decor,19,935,17765
+2024-08-15,East,Lamp,Home Decor,15,1910,28650
+2024-03-09,West,Laptop,Electronics,16,823,13168
+2024-07-24,North,Chair,Home Decor,5,324,1620
+2024-03-02,South,Rice,Grocery,3,631,1893
+2024-11-11,West,Table,Home Decor,12,212,2544
+2024-08-10,West,Jeans,Clothing,4,239,956
+2024-12-05,North,Curtains,Home Decor,16,658,10528
+2024-04-10,North,Headphones,Electronics,7,100,700
+2024-08-09,East,Curtains,Home Decor,13,189,2457
+2024-10-15,North,Lamp,Home Decor,10,753,7530
+2024-03-22,West,T-Shirt,Clothing,7,419,2933
+2024-04-07,South,Lamp,Home Decor,14,1673,23422
+2024-11-10,East,Curtains,Home Decor,5,1928,9640
+2024-05-30,South,Rice,Grocery,3,238,714
+2024-10-05,West,Jacket,Clothing,11,1634,17974
+2024-08-29,North,Lamp,Home Decor,11,1991,21901
+2024-06-28,West,Laptop,Electronics,18,944,16992
+2024-08-05,South,Table,Home Decor,15,358,5370
+2024-10-25,West,Jacket,Clothing,12,1796,21552
+2024-10-03,North,Laptop,Electronics,9,1001,9009
+2024-02-28,West,Table,Home Decor,10,789,7890
+2024-04-30,North,Rice,Grocery,12,109,1308
+2024-05-14,North,Smartphone,Electronics,17,360,6120
+2024-02-01,West,Lamp,Home Decor,6,1773,10638
+2024-01-19,North,Rice,Grocery,7,271,1897
+2024-03-23,North,Table,Home Decor,14,997,13958
+2024-08-21,East,T-Shirt,Clothing,13,112,1456
+2024-04-17,South,Milk,Grocery,8,1291,10328
+2024-07-11,East,Lamp,Home Decor,10,1765,17650
+2024-02-12,West,Shoes,Clothing,9,1719,15471
+2024-08-28,East,Headphones,Electronics,18,420,7560
+2024-07-02,South,Smartphone,Electronics,2,1442,2884
+2024-08-07,North,Bread,Grocery,5,1736,8680
+2024-08-04,North,Smartphone,Electronics,5,428,2140
+2024-05-17,East,Jeans,Clothing,6,884,5304
+2024-10-02,West,Lamp,Home Decor,19,876,16644
+2024-01-05,West,Headphones,Electronics,8,1010,8080
+2024-11-20,South,Camera,Electronics,16,1673,26768
+2024-06-30,East,Eggs,Grocery,13,1542,20046
+2024-10-24,East,Bread,Grocery,1,1729,1729
+2024-05-30,West,Headphones,Electronics,17,1218,20706
+2024-06-12,North,Bread,Grocery,7,1940,13580
+2024-11-12,South,Headphones,Electronics,13,1704,22152
+2024-03-17,South,Bread,Grocery,4,417,1668
+2024-03-04,North,Eggs,Grocery,4,335,1340
